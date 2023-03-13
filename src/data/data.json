@@ -1,0 +1,261 @@
+{
+  "home": [
+    {
+      "title": "Hi, I'm a Freelancer",
+      "john": "https://unsplash.com/es/fotos/iFgRcqHznqg",
+      "word1": "Designer",
+      "word2": "Developer",
+      "based": "based in Bariloche, Argentina",
+      "btnWork": "View my Works",
+      "btnContact": "Contact me"
+    }
+  ],
+  "resume": [
+    {
+      "title": "About me",
+      "subtitle": "Know Me More",
+      "greeting": "Hi, I'm",
+      "greetingBold": "John Doe",
+      "resume": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi officia atque id, perferendis obcaecati ullam rerum natus! Cupiditate omnis corporis consequuntur voluptas ipsa id repellat harum eveniet ipsum. Rem, earum! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione nemo aperiam nulla ea, possimus deserunt dignissimos repellat, ad laudantium cumque corrupti doloribus fuga libero aliquam temporibus autem quia labore rerum!",
+      "years": "16",
+      "yearsExperiance": "Years of ",
+      "yearsBold": "Experiance",
+      "contact": [
+        {
+          "id": 1,
+          "label": "Name:",
+          "value": "John Doe"
+        },
+        {
+          "id": 2,
+          "label": "Email:",
+          "value": "chat@johndoe.com"
+        },
+        {
+          "id": 3,
+          "label": "Date of birth",
+          "value": "11 June, 1986"
+        },
+        {
+          "id": 4,
+          "label": "From",
+          "value": "Bariloche, Argentina"
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "title": "What I Do!",
+      "subtitle": "How  I can help your next project",
+      "boxes": [
+        {
+          "id": 1,
+          "icon": "palette",
+          "title": "Graphic Design",
+          "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text."
+        },
+        {
+          "id": 2,
+          "icon": "desktop_mac",
+          "title": "Web Design",
+          "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text."
+        },
+        {
+          "id": 3,
+          "icon": "design_services",
+          "title": "UI/UX Design",
+          "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text."
+        },
+        {
+          "id": 4,
+          "icon": "app_shortcut",
+          "title": "App Design & Development",
+          "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text."
+        },
+        {
+          "id": 5,
+          "icon": "analytics",
+          "title": "Business Analysis",
+          "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text."
+        },
+        {
+          "id": 6,
+          "icon": "campaign",
+          "title": "SEO Marketing",
+          "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text."
+        }
+      ]
+    }
+  ],
+  "experiance": [
+    {
+      "title": "Experiance",
+      "subtitle": "A summary of My Resume",
+      "education": [
+        {
+          "id": 1,
+          "title": "Master in Computer Engineering",
+          "subtitle": "Buenos Aires University / 2015 - 2017",
+          "summary":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text."
+        },
+        {
+          "id": 2,
+          "title": "Bachelor in Computer Engineering",
+          "subtitle": "Buenos Aires University / 2014 - 2015",
+          "summary":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text."
+        },
+        {
+          "id": 3,
+          "title": "Graphic Designer",
+          "subtitle": "Buenos Aires University / 2010 - 2014",
+          "summary":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text."
+        }
+      ],
+      "jobs": [
+        {
+          "id": 1,
+          "title": "Sr. Front End Developer",
+          "subtitle": "Globant / 2020 - current",
+          "summary":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text."
+        },
+        {
+          "id": 2,
+          "title": "Sr. Front End Developer",
+          "subtitle": "MercadoLibre / 2018 - 2020",
+          "summary":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text."
+        },
+        {
+          "id": 3,
+          "title": "Sr. Graphic Designer",
+          "subtitle": "Arcor / 2014 - 2018",
+          "summary":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text."
+        }
+      ],
+      "skills": [
+        {
+          "id": 1,
+          "title": "Web Design",
+          "value": "65%"
+        },
+        {
+          "id": 2,
+          "title": "Javascript",
+          "value": "80%"
+        },
+        {
+          "id": 3,
+          "title": "React JS",
+          "value": "85%"
+        },
+        {
+          "id": 4,
+          "title": "TailwindCSS",
+          "value": "95%"
+        },
+        {
+          "id": 5,
+          "title": "Figma",
+          "value": "100%"
+        },
+        {
+          "id": 6,
+          "title": "HTML/CSS",
+          "value": "70%"
+        }
+      ],
+      "btnDownload": "Download CV"
+    }
+  ],
+  "works": [
+    {
+      "title": "Portfolio",
+      "subtitle": "Some of my most recent projects",
+      "projects": [
+        {
+          "id": 1,
+          "title": "Project 1",
+          "summary": "Quidam lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure. Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.",
+          "clientName": "James Doe",
+          "technologies": "HTML5, CSS3, PHP, Javascript",
+          "industry": "Art & Design",
+          "date": "July 16, 2019",
+          "url": "www.example.com",
+          "featureImage": "../image/project-1.jpg",
+          "gallery": [
+            {
+              "id": 1,
+              "url": "../image/project-2.jpg"
+            },
+            {
+              "id": 2,
+              "url": "../image/project-3.jpg"
+            },
+            {
+              "id": 3,
+              "url": "../image/project-4.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Project 2",
+          "summary": "Quidam lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure. Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.",
+          "clientName": "James Doe",
+          "technologies": "HTML5, CSS3, PHP, Javascript",
+          "industry": "Art & Design",
+          "date": "July 16, 2019",
+          "url": "www.example.com",
+          "featureImage": "../image/project-2.jpg",
+          "gallery": [
+            {
+              "id": 1,
+              "url": "../image/project-3.jpg"
+            },
+            {
+              "id": 2,
+              "url": "../image/project-4.jpg"
+            },
+            {
+              "id": 3,
+              "url": "../image/project-5.jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Project 3",
+          "summary": "Quidam lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure. Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.",
+          "clientName": "James Doe",
+          "technologies": "HTML5, CSS3, PHP, Javascript",
+          "industry": "Art & Design",
+          "date": "July 16, 2019",
+          "url": "www.example.com",
+          "featureImage": "../image/project-4.jpg",
+          "gallery": [
+            {
+              "id": 1,
+              "url": "../image/project-5.jpg"
+            },
+            {
+              "id": 2,
+              "url": "../image/project-6.jpg"
+            },
+            {
+              "id": 3,
+              "url": "../image/project-1.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "title": "Let's get in touch",
+      "subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text.",
+      "livingIn": "Bariloche, Argentina",
+      "formTitle": "Estimate your Project?"
+    }
+  ]
+}
